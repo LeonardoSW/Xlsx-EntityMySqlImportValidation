@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1df04c15-e387-4827-af6c-43ced33dc714": {
+      "ProjectGuid": "1df04c15-e387-4827-af6c-43ced33dc714",
+      "DisplayName": "ValidaçãoPrecoPlanilhaHub2b",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
