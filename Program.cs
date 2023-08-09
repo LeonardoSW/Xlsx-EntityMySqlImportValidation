@@ -35,8 +35,3 @@ foreach (var row in planilha.Rows())
 
     index++;
 }
-
-for (int l = 2; l <= totalLinhas; l++)
-{
-    
-}
